@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* NanumSquare */
+@font-face {
+    font-family:'NanumGothic';
+	font-weight:300;
+	src: local('NanumGothic'), local('Nanum GothicLight'), local('NanumGothic-Light'), local('Nanum Gothic Light'), 
+         url('../fontNanumGothic.woff2') format('woff2'),
+         url('../font/NanumGothic.woff') format('woff');
+}
+
+@font-face {
+    font-family:'NanumGothicB';
+	font-weight:300;
+	src: local('NanumGothicBold'), local('Nanum GothicBold'), local('NanumGothic-Bold'), local('Nanum Gothic Bold'), 
+    url('../Font/NanumGothicBold.woff2') format('woff2'),
+    url('../Font/NanumGothicBold.woff') format('woff');
+}
+
+@font-face {
+    font-family:'NanumGothicEB';
+	font-weight:300;
+	src: local('NanumGothicExtraBold'), local('NanumGothic ExtraBold'), local('NanumGothic-ExtraBold'), local('Nanum Gothic ExtraBold'), 
+         url('../Font/NanumGothicExtraBold.woff2') format('woff2'),
+         url('../Font/NanumGothicExtraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family:'NotosansKR';
+	font-weight:300;
+	src: local('NotosansKRMedium'), local('NotosansKR Medium'), local('NotosansKR-Medium'), local('Notosans KR Medium'), 
+         url('../Font/NotoSansKR-Medium.woff2') format('woff2'),
+         url('../Font/NotoSansKR-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family:'NotosansKRB';
+	font-weight:300;
+	src: local('NotosansKRBold'), local('NotosansKR Bold'), local('NotosansKR-Bold'), local('Notosans KR Bold'), 
+         url('../Font/NotoSansKR-Bold.woff2') format('woff2'),
+         url('../Font/NotoSansKR-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family:'NotosansKRR';
+	font-weight:300;
+	src: local('NotosansKRRegular'), local('NotosansKR Regular'), local('NotosansKR-Regular'), local('Notosans KR Regular'), 
+         url('../Font/NotoSansKR-Regular.woff2') format('woff2'),
+         url('../Font/NotoSansKR-Regular.woff') format('woff');
+}
