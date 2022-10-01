@@ -1,0 +1,12 @@
+@charset "utf-8";
+.flex-container{display: flex;height: 300px; background-color: #eee; border: 2px solid black;padding: 10px;}
+.flex-item{background-color: greenyellow; border: 1px solid #999; flex: 1;justify-content: center; align-items: center;display: flex; }
+.flex-item>text{vertical-align: middle;}
+.flex-item:nth-child(2){margin: 0 10px;}
+
+
+@media all and (max-width: 600px) {
+    .flex-container{flex-direction: column;}
+    .flex-item {margin: 5px;}
+    .flex-item:nth-child(2){margin: 5px;}
+}
