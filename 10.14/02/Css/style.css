@@ -10,6 +10,8 @@
 .gnb-menu li a:hover {color:white;transition: .5s;}
 
 /* search */
-.search-form{}
-.search-form input[type="search"]{height: 30px;background: #fff;border-radius: 5px;padding: 5px 10px;}
-.search-form input[type="submit"]{width: 60px; height: 30px; background-color: gold; border-radius: 5px;}
+.search-form{display: flex; margin: 10px;}
+.search-form input{height: 40px; border: none;}
+.search-form input[type="search"]{flex: 1;background: rgb(197, 197, 197);padding: 5px 10px;border-radius: 5px 0 0 5px;}
+.search-form input[type="submit"]{width: 100px; background-color: gold;font-size: 1rem;border-radius: 0 5px 5px 0;transition: 0.8s}
+.search-form input[type="submit"]:hover{background-color: rgb(255, 30, 0); transition: 0.8s;cursor : pointer;}
