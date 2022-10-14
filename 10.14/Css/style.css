@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.flex-txt{display: inline-flex;font-size: 80px;font-family: 'NanumGothicB';align-items: center;justify-content: center;}
+/*gnb Menu*/
+.gnb-menu {display: flex;}
+.gnb-menu li {width: 25%;background-color: GOLD;transition: .5s;}
+.gnb-menu li:hover {width: 30%;background: orange;transition: .5s;}
+.gnb-menu li a {display: block; padding: 1em; text-align: center; text-decoration: none; font-family:'NanumGothicB'; font-size: 1rem;color: #404040; text-decoration: none;transition: .5s;}
+.gnb-menu li a:hover {color:white;transition: .5s;}
