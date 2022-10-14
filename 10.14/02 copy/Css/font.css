@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* NanumGothic */
+@font-face {
+	font-family:'NanumGothic';
+	font-weight:400;
+	src: local('NanumGothic'), local('Nanum Gothic'), 
+	     url('../font/NanumGothic.woff2') format('woff2'), 
+	     url('../font/NanumGothic.woff') format('woff');
+}
+
+@font-face {
+	font-family:'NanumGothicB';
+	font-weight:600;
+	src: local('NanumGothicBold'), local('NanumGothic Bold'), 
+	     url('../font/NanumGothicBold.woff2') format('woff2'), 
+	     url('../font/NanumGothicBold.woff') format('woff');
+}
+
+@font-face {
+	font-family:'NanumGothicEB';
+	font-weight:800;
+	src: local('NanumGothicExtraBold'), local('NanumGothic ExtraBold'), 
+	     url('../font/NanumGothicExtraBold.woff2') format('woff2'), 
+	     url('../font/NanumGothicExtraBold.woff') format('woff');
+}
+
+
+/* Noto Sans KR */
+@font-face {
+	font-family:'NanumGothic';
+	font-weight:400;
+	src: local('NanumGothic'), local('Nanum Gothic'), 
+	     url('../font/NanumGothic.woff2') format('woff2'), 
+	     url('../font/NanumGothic.woff') format('woff');
+}
+
+@font-face {
+	font-family:'NanumGothicB';
+	font-weight:600;
+	src: local('NanumGothicBold'), local('NanumGothic Bold'), 
+	     url('../font/NanumGothicBold.woff2') format('woff2'), 
+	     url('../font/NanumGothicBold.woff') format('woff');
+}
+
+@font-face {
+	font-family:'NanumGothicEB';
+	font-weight:800;
+	src: local('NanumGothicExtraBold'), local('NanumGothic ExtraBold'), 
+	     url('../font/NanumGothicExtraBold.woff2') format('woff2'), 
+	     url('../font/NanumGothicExtraBold.woff') format('woff');
+}
+
+@font-face {
+	font-family:'NanumGothicEB';
+	font-weight:800;
+	src: local('NanumGothicExtraBold'), local('NanumGothic ExtraBold'), 
+	     url('../font/NanumGothicExtraBold.woff2') format('woff2'), 
+	     url('../font/NanumGothicExtraBold.woff') format('woff');
+}
