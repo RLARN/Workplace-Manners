@@ -21,3 +21,8 @@
 .title-wrap{display: flex;margin: 10px; background-color: #eee; padding: 0.5em;}
 .title-wrap .title{overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex-grow: 1;}
 .title-wrap button{background: gold; border: 1px solid rgba(0,0,0,0.1);border-radius: 5px; box-sizing: border-box; margin:0 8px; margin-right: auto;}
+
+/* blet-list */
+.list-wrap{padding: 1rem;}
+.blet-list{display: flex; margin-bottom: 0.5em;}
+.blet-list::before{content: '😀';margin-right: 10px;}

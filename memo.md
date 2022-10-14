@@ -12,7 +12,8 @@
 
 * 중간고사는 2주 연기! >> 11월 4일
 * cursor : pointer; 호버시 손꾸락
-* margin: auto 정가운데로 정렬
+* margin: auto 정가운데로 정렬  
+* flex 안내 사이트  
 https://d2.naver.com/helloworld/8540176
 
 
@@ -23,4 +24,6 @@ https://d2.naver.com/helloworld/8540176
     white-space: nowrap;
     ```
 
-* 10월 마지막주 수행평가
+* 10월 마지막주 수행평가  
+* 아이콘 복붙 사이트  
+https://copychar.cc
