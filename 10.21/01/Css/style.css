@@ -25,4 +25,8 @@
 /* blet-list */
 .list-wrap{padding: 1rem;}
 .blet-list{display: flex; margin-bottom: 0.5em;}
-.blet-list::before{content: '😀';margin-right: 10px;}
+/* .blet-list::before{content: '😀';margin-right: 10px;} */
+/* .blet-list::before{content: '';height: 4px;width: 4px;background: green;border-radius: 50%;flex-shrink:0;margin-right: 10px;margin-top: 8px;} */
+
+
+.blet-list::before{content: '';width: 6px;height: 6px;flex-shrink:0;border-top: 2px solid red;border-right: 2px solid red; transform: rotate(45deg);margin:6px 10px 0 0}

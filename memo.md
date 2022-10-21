@@ -4,7 +4,7 @@
 * ```box-sizing: border-box;``` 보더를 안쪽으로  
 
 * 사이즈가 600보다 작으면 flex 정렬을 colum으로 해라
-    ```
+    ```css
     @media all and (max-width: 600px) {
         .flex-container{flex-direction: column;}
     }
@@ -18,7 +18,7 @@ https://d2.naver.com/helloworld/8540176
 
 
 * 말줄임표 공식 (아래 3개 코드 다 작성)
-    ```
+    ```css
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -27,3 +27,14 @@ https://d2.naver.com/helloworld/8540176
 * 10월 마지막주 수행평가  
 * 아이콘 복붙 사이트  
 https://copychar.cc
+
+*   사이즈 보존
+    ```css
+    flex-shrink:0;
+    ``` 
+    
+*   돌려버리기
+    ```css
+    transform: rotate(45deg);
+    ```
+    
