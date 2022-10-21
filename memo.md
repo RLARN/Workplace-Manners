@@ -54,4 +54,6 @@ https://copychar.cc
     -webkit-line-clamp:2;
     -webkit-box-orient:vertical}
     ```
+
+* 다음주 수행평과
     
