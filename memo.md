@@ -46,7 +46,7 @@ https://copychar.cc
     background-size: cover;
     ```
 
-* 여러 줄 말줄임 속성 값
+* 여러 줄 말줄임 속성 값 (2줄)
     ```css
     {display:-webkit-box;
     overflow:hidden;
