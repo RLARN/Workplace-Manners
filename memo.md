@@ -23,7 +23,7 @@ https://d2.naver.com/helloworld/8540176
     text-overflow: ellipsis;
     white-space: nowrap;
     ```
-
+    
 * 10월 마지막주 수행평가  
 * 아이콘 복붙 사이트  
 https://copychar.cc
