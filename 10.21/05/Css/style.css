@@ -40,4 +40,7 @@
 .thumb-list li .desc{}
 
 /* card-list */
-.card-photo{flex-shrink: 0;width: 60px;height: 60px;background-color: gray;background-position: center;background-repeat: no-repeat;background-size: 150%;border-radius: 50%;border: 2px solid #555; margin-right: 16px;}
+.card-list{}
+.card-item{}
+.card-photo{height: 200px;background-position: center;background-repeat: no-repeat;background-size: cover;}
+.card-desc{}
