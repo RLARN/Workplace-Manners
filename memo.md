@@ -45,4 +45,13 @@ https://copychar.cc
     background-repeat: no-repeat;
     background-size: cover;
     ```
+
+* 여러 줄 말줄임 속성 값
+    ```css
+    {display:-webkit-box;
+    overflow:hidden;
+    height:50px;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical}
+    ```
     
