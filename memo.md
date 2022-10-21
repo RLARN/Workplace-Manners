@@ -37,4 +37,9 @@ https://copychar.cc
     ```css
     transform: rotate(45deg);
     ```
+
+* 이미지넣기
+    ```css
+    figure
+    ```
     
