@@ -28,7 +28,7 @@ https://d2.naver.com/helloworld/8540176
 * 아이콘 복붙 사이트  
 https://copychar.cc
 
-*   사이즈 보존
+*   사이즈 보존 (모양 안찌그러지게)
     ```css
     flex-shrink:0;
     ``` 

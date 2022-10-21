@@ -34,7 +34,8 @@
 
 
 /* thumb-list */
-.thumb-list{padding: 5vw;}
-.thumb-list li{display: flex; margin-bottom: 9vw;}
+.thumb-list{padding: 20px;}
+.thumb-list li{display: flex; margin-bottom:35px;}
+.thumb-list p{margin-top: 19px;overflow: hidden;text-overflow: ellipsis; white-space: nowrap;}
 .thumb-list li .photo{flex-shrink: 0;width: 60px;height: 60px;background-color: gray;background-position: center;background-repeat: no-repeat;background-size: 150%;border-radius: 50%;border: 2px solid #555; margin-right: 16px;}
 .thumb-list li .desc{}
