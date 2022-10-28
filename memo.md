@@ -61,4 +61,18 @@ https://copychar.cc
     ```
     flex-direction: column;
     ```
+* 화면크기에따른 변화 주기
+    ```css
+        @media all and (min-width:600px){
+        .card-list-wrap{overflow-x: hidden;}
+        .card-list{display: flex;flex-wrap: wrap; margin: 0 -1vw;}
+        .card-item{width: 50%;padding: 0 1vw;}
+        .card-btm{flex:auto}
+    }
+
+    @media all and (min-width:1200px){
+        .card-item{width: 33%; flex: auto}
+        .card-list{}
+    }
+    ```
     
