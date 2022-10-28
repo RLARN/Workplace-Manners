@@ -45,6 +45,10 @@ https://copychar.cc
     background-repeat: no-repeat;
     background-size: cover;
     ```
+* 한줄 줄이기
+    ```css
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex-grow: 1;
+    ```
 
 * 여러 줄 말줄임 속성 값 (2줄)
     ```css
