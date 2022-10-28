@@ -55,5 +55,10 @@ https://copychar.cc
     -webkit-box-orient:vertical}
     ```
 
-* 다음주 수행평과
+* rem :16px
+* em : 상대값
+* 수직정렬
+    ```
+    flex-direction: column;
+    ```
     
