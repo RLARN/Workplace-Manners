@@ -52,17 +52,16 @@ https://copychar.cc
 
 * 여러 줄 말줄임 속성 값 (2줄)
     ```css
-    {display:-webkit-box;
+    display:-webkit-box;
     overflow:hidden;
     height:50px;
     -webkit-line-clamp:2;
-    -webkit-box-orient:vertical}
+    -webkit-box-orient:vertical
     ```
-
 * rem :16px
 * em : 상대값
 * 수직정렬
-    ```
+    ```css
     flex-direction: column;
     ```
 * 화면크기에따른 변화 주기
