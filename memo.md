@@ -78,4 +78,4 @@ https://copychar.cc
         .card-list{}
     }
     ```
-    
+* 햄버거 매뉴 누르면 매뉴가나옴 밑으로 일렬로
