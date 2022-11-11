@@ -51,7 +51,7 @@ body{background-color: #eee; width: 400px;transition: all 0.3s;}
 
 /* Header */
 header{display: flex;justify-content: space-between;background-color: white; padding: 10px;}
-header h1{margin: 5px;}
+header h1{margin: 5px;text-decoration: none;}
 .search-form{background-color: white;}
 .search-form input[type="search"]{border: none;height: 48px;}
 .search-form input[type="submit"]{display: none;}
@@ -127,6 +127,7 @@ header h1{margin: 5px;}
 .ftr-row{display: flex; flex-direction: row; justify-content: space-around; justify-items: center;margin: 1px;}
 .ftr-row-cont{width: 100%;padding: 5px 1px ; text-align: center;border: 1px transparent black;margin: 1px;font-size: 8px;}
 .ftr-row-cont:hover{cursor: pointer;}
+.row-cont:hover{background-color: black; color: white; transition: all 0.3s;}
 
 
 
