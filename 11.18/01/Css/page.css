@@ -1,5 +1,7 @@
 @charset "utf-8";
-
+/* modal-switch */
+.modal{display: none; top:72px}
+#modal-switch:checked ~ .modal{display: flex;}
 
 @media all and (min-width:1024px){
    .wrap{display: flex;flex-wrap: wrap;}
