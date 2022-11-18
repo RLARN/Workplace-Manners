@@ -80,7 +80,9 @@ footer{padding: 2rem 1rem;background-color: #707070;color: #fff; text-align: cen
 .btn_go b{color: #4379d9; font-weight: 400;}
 
 
-
+/* modal */
+.modal{background-color: rgb(88, 88, 88,0.3); display: flex;position: fixed;left: 0;right: 0;top:0;bottom: 0;justify-content: center;}
+.dialog{padding:2rem;border-radius: 1rem;background-color: #fff; width: 50vw;height: 50vh;}
 
 
 
