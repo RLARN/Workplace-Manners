@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+@media all and (min-width:1024px){
+   .wrap{display: flex;flex-wrap: wrap;}
+   header, footer{width: 100%;}
+    section{order: 2;width: 60%;}
+    .aside{width: 20%;}
+   .aside-a{order: 1;}
+   .aside-b{order: 3;}
+   footer{order: 4;}
+}
+
+
+@media all and (min-width:1400px){
+    section{width: calc(100% - 600px);}
+    .aside{width: 300px;}
+    header, .footer{width: 100%;}
+}
